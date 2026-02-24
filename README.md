@@ -1,5 +1,3 @@
-# Hi there, I'm Yeltsin Lima! 👋
-
 <div align="center">
 
 <!-- Animated header banner -->
